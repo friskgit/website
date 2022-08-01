@@ -1,0 +1,32 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+$linkcolor: #CC6600;
+$smallsize: 0.8em;
+
+a:link { 
+    color: $linkcolor;
+}
+
+.newsFlash div {
+    height: 800px;
+    position: absolute;
+}
+
+.newsFlash p {
+    font-size: $smallsize;
+}
+
+.newsFlash img {
+    float: right;
+//    padding-left: 10px;
+    height: auto;
+    padding: 10px;
+    width: 200px;
+}

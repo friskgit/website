@@ -1,0 +1,17 @@
+- title: My News 1
+  text: My piece Image Schema is being performed at the Festival Musica Viva in Lisbon Potugal on November 13 at 19:30 (Portugal time). The concert is being streamed online for those you interested to hear. There are several other interesting intermedia pieces in the concert as well!
+  image: assets/images/MV2021_postal_web.jpg
+
+- id: 1
+  date: 2004-07-01
+  display: 1
+  cat: other
+  title: Publishing deal
+  text: Walrus Music Publishing, <a href="http://www.walrusmusic.com/">www.walrusmusic.com</a>, is making my arrangement of David Liebman's tune <cite>Carissima</cite> available for sale. This is a result of David Liebman Big Band having recorded this same arrangment on cd.
+  image: bilder/spacer.gif
+  
+- heading: My News 2
+  text: parkr
+
+- heading: My News 3
+  text: liufengyun

@@ -1,0 +1,18 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+@import "typography";
+
+/* Define standard variables and values for website */
+$linkcolor: #CC6600;
+//$textcolor: ;
+//$fontsize: 18px;
+
+a {
+    text-decoration: none;
+}
+
+a:link { 
+    color: $linkcolor;
+}

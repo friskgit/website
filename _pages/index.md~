@@ -1,0 +1,21 @@
+---
+defaults:
+# _pages
+- scope:
+path: ""
+type: pages
+values:
+layout: home
+author_profile: true	
+permalink: /
+---
+Hello index
+
+<ul>
+{% for member in site.data.news %}
+  <li>
+    <h4> {{ member.heading }} </h4>
+     <p class="newsFlash"> {{ member.text }} </p>
+  </li>
+{% endfor %}
+</ul>

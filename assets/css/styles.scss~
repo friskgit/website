@@ -1,0 +1,11 @@
+---
+---
+
+// start content
+.my-definition
+  font-size: 1.2em
+
+/* Define standard variables and values for website */
+$bgcolor: ;
+$textcolor: ;
+$fontsize: 18px;
