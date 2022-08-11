@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Henrik Frisk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Musician, composer and researcher"
+  avatar           : "/assets/images/henrik_frisk.jpg"
+  bio              : "Musician, composer and researcher with a special interest in improvisation, electronic music and artistic research."
   location         : "Stocholm, Uppsala"
   email            : "mail@henrikfrisk.com"
   links:
